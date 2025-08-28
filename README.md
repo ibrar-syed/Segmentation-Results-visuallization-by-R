@@ -1,5 +1,4 @@
-# Segemnattion-Results-visuallization-by-R
-Visualization/Plotting of Results by using The RStudio
+# Visualization/Plotting of Results by using The RStudio
 
 # GAN Metrics Analysis in R,...
 
