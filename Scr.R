@@ -6,7 +6,7 @@ library(patchwork)
 source("scripts/helper_functions.R")
 
 # Paths
-project_root <- "C:/Users/Syed/Documents/my_r_project"
+project_root <- "./my_project"
 data_path <- file.path(project_root, "data/raw/my_data.xlsx")
 output_path <- file.path(project_root, "outputs")
 
