@@ -2,7 +2,7 @@
 
 # GAN Metrics Analysis in R
 ## Overview
-This project provides a comprehensive analysis and visualization of metrics obtained during GAN training. 
+This project provides a comprehensive analysis and visualization of metrics obtained during GAN training......
 
 It includes Dice Score and Loss metrics, plotted as line plots, bar charts, and boxplots, as well as multi-panel figures suitable for publication...
 
