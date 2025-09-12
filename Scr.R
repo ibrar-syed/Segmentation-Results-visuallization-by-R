@@ -128,7 +128,7 @@ main <- function() {
   ggsave(file.path(output_path,"loss_boxplot.png"), loss_box, width=8, height=6)
   ggsave(file.path(output_path,"Figure_full.png"), full_figure, width=18, height=10)
   
-  # Save processed data
+  # Save processed data,...
   write_csv(metrics_data, file.path(output_path,"processed_metrics.csv"))
   
   return(list(
