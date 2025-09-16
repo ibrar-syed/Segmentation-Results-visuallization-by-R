@@ -1,6 +1,6 @@
 # Visualization/Plotting of Results by using The RStudio
 
-# GAN Metrics Analysis in R,...
+# GAN Metrics Analysis in R
 ## Overview
 This project provides a comprehensive analysis and visualization of metrics obtained during GAN training......
 
