@@ -19,7 +19,7 @@ It includes Dice Score and Loss metrics, plotted as line plots, bar charts, and 
 - Boxplots showing distributions across epochs
 - Combined multi-panel figure for publication
 
-## Requirements
+## Requirements,...
 - R >= 4.2
 - Packages: tidyverse, readxl, patchwork
 
