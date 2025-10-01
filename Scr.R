@@ -1,4 +1,4 @@
-# Main Analysis Script for cGAN_Metricss
+# Main Analysis Script for cGAN_Metric
 library(tidyverse)
 library(readxl)
 library(patchwork)
